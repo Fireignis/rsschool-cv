@@ -15,6 +15,7 @@
 > - <b>CSS</b>
 > - <b>Java Script</b>
 > - <b>Git</b>
+> - <b>React JS</b>
 
 > ### Education:
 > - [freeCodeCamp](https://www.freecodecamp.org/learn)
